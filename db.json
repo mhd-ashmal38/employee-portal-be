@@ -1,0 +1,14 @@
+{
+  "employees": [
+    {
+        "id": "1",
+        "fname": "Jon",
+        "lname": "Doe",
+        "email": "john@gmail.com",
+        "mobile": "1234567890",
+        "gender": "Male",
+        "profile": "https://imgs.search.brave.com/mrGPA09k4VPQUpoSzRXo-L9EFFMTUuzqPdl9srVwl9w/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50aGVtb3ZpZWRi/Lm9yZy90L3AvdzMw/MF9hbmRfaDQ1MF9i/ZXN0djIvcmdCMmVJ/T3Q3V3lRamRnSkNP/dUVTZERscmpnLmpw/Zw",
+        "location": "New Jersey"
+    }
+  ]
+}
